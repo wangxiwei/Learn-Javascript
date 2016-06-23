@@ -11,7 +11,8 @@
     "-sharing",
     "-livereload",
     "-fontsettings",
-    "disqus"
+    "disqus",
+    "exercises"
   ],
   "pluginsConfig": {
   "disqus": {
